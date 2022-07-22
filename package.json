@@ -1,0 +1,11 @@
+{
+  "name": "cursopracticojs2",
+  "version": "1.0.0",
+  "description": "Nuevo Curso practico js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brayan gonzalez <b.sleider15@gmail.com>",
+  "license": "ISC"
+}
